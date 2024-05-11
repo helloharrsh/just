@@ -1,5 +1,5 @@
 import React from "react";
-import '/workspaces/interview_question_mailer/one/src/components/feature/feature.css'
+import './feature.css'
 
 const feature = () => {
     return (

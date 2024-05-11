@@ -1,12 +1,12 @@
 import React from "react";
-import '/workspaces/interview_question_mailer/one/src/components/brands/brand.css'
+import './brand.css'
 
-const Brands = () => {
+const Brand = () => {
     return (
         <div>
-            Article. 
+            BRANDS
         </div>
     )
 }
 
-export default Brands;  
+export default Brand;  

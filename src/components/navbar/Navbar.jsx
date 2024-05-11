@@ -1,12 +1,17 @@
 import React from "react";
-import '/workspaces/interview_question_mailer/one/src/components/navbar/navbar.css'
+import {RiMenu3line, RiCloseLin} from 'react-icons/ri';
+import './navbar.css'
 
-const feature = () => {
+const navbar= () => {
     return (
-        <div>
-            NAVBAR.  
+        <div className="gpt3__navbar">
+            <div className="gpt3__navbar-links">
+                <div className="gpt3__navbar-links_logo">
+                    <img src = {logo} alt= "logo" />
+                </div>
+        </div>
         </div>
     )
 }
 
-export default feature;  
+export default navbar;  

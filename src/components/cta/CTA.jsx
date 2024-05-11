@@ -1,5 +1,5 @@
 import React from "react";
-import '/workspaces/interview_question_mailer/one/src/components/cta/cta.css'
+import './cta.css'
 
 const CTA = () => {
     return (
